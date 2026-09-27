@@ -103,4 +103,4 @@ The **OnsiteBIM Revit Toolkit** provides everything you need to connect your 3D 
 * **Official Website**: [https://onsitebim.app](https://onsitebim.app)
 * **Alignment Target Generator**: [https://onsitebim.app/generator.html](https://onsitebim.app/generator.html)
 * **GitHub Repository**: [https://github.com/onsitebim](https://github.com/onsitebim)
-* **Contact & Feedback**: [contact@onsitebim.app](mailto:contact@onsitebim.app)
+* **Contact & Feedback**: [contact@onsitebim.app](mailto:support@onsitebim.app)
