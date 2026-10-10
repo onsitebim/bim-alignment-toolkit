@@ -64,7 +64,6 @@ The **OnsiteBIM Revit Toolkit** provides everything you need to connect your 3D 
 ### Step 5: Print Your Matching Paper Alignment Target
 1. Open any web browser on your phone, tablet, or computer and go to:  
    👉 **[https://onsitebim.app/generator.html](https://onsitebim.app/generator.html)**  
-   *(or open the Targets menu inside the OnsiteBIM mobile app).*
 2. Select the matching **Target ID** (e.g. `12`) and **Size** (e.g. `150mm`).
 3. Download the calibrated PDF and print it on standard office paper.
 4. **Printer Setting**: Ensure your printer is set to **"Actual Size"** or **"100% Scale"** (never use "Fit to Page", which shrinks the target).
